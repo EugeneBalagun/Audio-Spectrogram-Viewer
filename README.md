@@ -24,6 +24,7 @@ Supports **playback, zooming, saving spectrograms, and live playback cursor** sy
 - Install dependencies:
 ```bash
 pip install numpy matplotlib PyQt5 soundfile pygame
+```
 🚀 Run the app
 bash
 Copy code
