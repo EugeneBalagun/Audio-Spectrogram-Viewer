@@ -17,6 +17,9 @@ Supports **playback, zooming, saving spectrograms, and live playback cursor** sy
 - Logging for debugging
 
 ---
+## 📸 Preview
+![App Screenshot](Screen/1.png)
+
 
 ## 📦 Requirements
 
@@ -32,16 +35,6 @@ python main.py
 🖼 UI Preview
 Load & Play	Zoomed Spectrogram	Save Spectrogram
 
-🛠 Directory Structure
-css
-Copy code
-audio-spectrogram-viewer/
-├── main.py              # Main application
-├── images/              # Screenshots
-│   ├── 1.png
-│   ├── 2.png
-│   └── 3.png
-└── README.md
 🎹 Usage
 Launch the app: python main.py
 
